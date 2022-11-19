@@ -25,6 +25,7 @@
         height: 100%;
         width: 60%;
         padding-top: 100px;
+        display: none;
 
     }
     li{
@@ -178,6 +179,7 @@
         height: 20px;
         width: 60%;
         padding-top: 100px;
+        display: block;
 
     }
     li{
@@ -332,6 +334,7 @@ ul{
     height: 10px;
     width: 600px;
     padding-top: 50px;
+    display: block;
 
 }
 li{
